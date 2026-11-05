@@ -1,10 +1,8 @@
-# OfSkyboxes
+# of-skyboxes
 
-OfSkyboxes is a Minecraft 1.8.9 Forge client mod that renders custom skies from OptiFine and MCPatcher resource packs.
+of-skyboxes is a Minecraft 1.8.9 Forge client mod that renders custom skies from OptiFine and MCPatcher resource packs.
 
 I made this project because I could not find any working alternatives for Forge 1.8.9. AI wrote the majority of the code.
-
-Minecraft 1.8.9 no longer receives updates. This mod does not need future updates.
 
 ## What it does
 
