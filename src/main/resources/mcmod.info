@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "ofskyboxes",
+    "name": "OfSkyboxes",
+    "description": "OptiFine-compatible custom sky rendering",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["omp"],
+    "credits": "Based on OptiFine Custom Sky specification"
+  }
+]

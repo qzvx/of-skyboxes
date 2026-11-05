@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+.gradle-dist/
+
+# Bundled JDK
+.jdk8/
+
+# IDE / Editor files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+
+# Forge runtime directory
+run/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
